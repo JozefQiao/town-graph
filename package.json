@@ -1,0 +1,15 @@
+{
+  "name": "2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "keywords": [],
+  "author": "Jozef Qiao",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.25"
+  }
+}
